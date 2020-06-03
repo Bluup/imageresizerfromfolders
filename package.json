@@ -1,0 +1,16 @@
+{
+  "name": "imageresizerfromfolders",
+  "version": "0.0.1",
+  "description": "Find and resize all images taking as source a father folder",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bluup",
+  "license": "MIT",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-pngquant": "^9.0.0"
+  }
+}
