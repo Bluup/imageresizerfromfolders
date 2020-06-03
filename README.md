@@ -13,6 +13,9 @@ In your app folder open a terminal and write.
 ```sh
 $ npm i imageresizerfromfolders -D
 ```
+### Warning
+Running this script overrides your images.
+
 ### Usage
 ```sh
 const resize = require("imageresizerfromfolders");
