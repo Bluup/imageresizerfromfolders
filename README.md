@@ -1,7 +1,5 @@
 # imageresizerfromfolders
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 imageresizerfromfolders is a simple script that reduce the size of .jpg and .png of all images from a root folder.
 
 ### Install
